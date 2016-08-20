@@ -1,0 +1,26 @@
+.cuadrouno {
+             width: 190px;
+		     border: 15px solid;
+		     color: #000000;
+		     border-color: #F5FE02;
+             padding-top: 20px;
+             padding-bottom: 20px;
+             padding-right: 15px;
+             padding-left:15px;
+             background-color: #FFFFFF;
+             text-align: center;
+    }
+
+.cuandrodos {
+             width: 190px;
+		     border: 15px solid;
+		     color: #000000;
+		     border-color: #F5FE02;
+             padding-top: 20px;
+             padding-bottom: 20px;
+             padding-right: 15px;
+             padding-left:15px;
+             background-color: #FFFFFF;
+             text-align: center;
+             float: right;
+    }
